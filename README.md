@@ -1,2 +1,0 @@
-# chatty
-Created with CodeSandbox
